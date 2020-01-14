@@ -1,4 +1,4 @@
-package string;
+package stringPrograms;
 
 public class SwapStrings {
 
